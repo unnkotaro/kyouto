@@ -1,0 +1,20 @@
+video{
+    width: 100%
+}
+img{
+    width: 50%;
+}
+h2{
+    position: relative;
+}
+a{
+    height: 100px;
+    font-size: 30px;
+}
+p{
+    font-size: 16px;
+}
+.wrapper{
+    width: 70%;
+    margin: 0 auto;
+}
